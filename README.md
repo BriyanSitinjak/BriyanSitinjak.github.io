@@ -1,2 +1,3 @@
 # BriyanSitinjak.github.io
-KISS
+KISS  
+(Keep It Simple Stupid)
